@@ -2,5 +2,5 @@
 layout: slide
 title: "Add Michael-Kondratjev's file"
 ---
-Your text
+Willy Winky
 I coped with step 6!
