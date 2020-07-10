@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Add Michael-Kondratjev's file"
 ---
 Your text
-Use the left arrow to go back!
+I coped with step 6!
